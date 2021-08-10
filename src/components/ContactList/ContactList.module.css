@@ -1,0 +1,27 @@
+.list {
+    list-style: none;
+    padding-left: 20px;
+    width: 280px;
+}
+.list__item{
+    margin: 3px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: baseline;
+    font-weight: 600;
+}
+.deleteBtn{
+border: none;
+background: none;
+cursor: pointer;
+color: red;
+font-size: 12px;
+}
+.name {
+    font-size: 18px;
+}
+.number {
+    font-size: 14px;
+    color: slategray;
+}

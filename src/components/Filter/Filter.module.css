@@ -1,0 +1,15 @@
+.filter{
+display: flex;
+flex-direction: column;
+margin: 20px;
+
+}
+.input{
+width: 150px;
+margin-top: 5px;
+background:lavender;
+border-radius: 4px;
+}
+.title {
+    font-weight: 600;
+}
